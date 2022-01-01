@@ -21,3 +21,14 @@
 
 # UWAGA
 ## Zapomniałem dodać jeszcze jednego mojego projektu do ankiety, znajduje się [tutaj](https://github.com/kfkowal/PAS_projekt)
+
+# How to run
+### To run backend first create python virtual environment
+### > python -m venv env
+### then enable the created virtual environment (on windows run ***./env/Scripts/activate***)
+### then install required modlues:
+### > python -m pip install -r requirements.txt
+### then run backend by typing:
+### > python run_backend.py
+
+
