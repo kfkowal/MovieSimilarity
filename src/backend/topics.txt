@@ -1,0 +1,1400 @@
+0 ###
+truck, fire, arrives, reach, mask, water, happy, ride, tree, word, 
+1 ###
+aunt, food, struggle, sell, city, heart, imperial, thanks, born, station, 
+2 ###
+fletcher, nicky, jimmy, mill, hal, thief, lead, quickly, throw, condition, 
+3 ###
+doc, training, match, lorraine, win, dance, future, loses, every, suit, 
+4 ###
+star, stage, bank, married, area, river, tear, monster, alien, ash, 
+5 ###
+witch, neil, castle, knight, king, guard, sir, fire, approach, party, 
+6 ###
+joe, music, band, playing, war, chase, arrives, invite, rich, close, 
+7 ###
+harvey, marine, mob, weapon, hero, arrives, clean, shoot, gun, hospital, 
+8 ###
+alien, crew, ship, space, maximus, creature, ash, computer, system, planet, 
+9 ###
+letter, murder, husband, lawyer, victim, document, suspect, evidence, owner, married, 
+10 ###
+sex, government, lead, news, parent, support, party, public, result, others, 
+11 ###
+narrator, group, club, fight, control, lot, self, everything, ask, completely, 
+12 ###
+gang, noodle, crime, boy, violent, drug, year, killed, criminal, thug, 
+13 ###
+frank, king, barry, travel, escape, husband, reporter, harmonica, marriage, kurtz, 
+14 ###
+schultz, slave, kill, free, power, master, daniel, battle, fight, horse, 
+15 ###
+mansion, writer, silent, star, joe, pool, arrive, accepts, party, lead, 
+16 ###
+corleone, officer, samurai, war, killed, bridge, prisoner, escape, luke, bandit, 
+17 ###
+village, samurai, bandit, fight, battle, attack, giant, killed, training, post, 
+18 ###
+dog, parker, strange, professor, every, entire, unknown, board, ash, struggle, 
+19 ###
+lady, count, war, marry, rhett, sword, ashley, kiss, wish, king, 
+20 ###
+city, worker, alfred, henchman, chase, murder, justice, beat, crime, murdered, 
+21 ###
+hospital, lie, creature, sleep, final, bring, person, including, several, forced, 
+22 ###
+kane, newspaper, reporter, word, lost, course, reveal, final, came, suicide, 
+23 ###
+earth, fish, planet, ship, black, space, land, great, prince, future, 
+24 ###
+god, black, across, knight, answer, returning, toward, country, lost, star, 
+25 ###
+priest, king, hunter, reporter, mention, court, roger, cover, judge, press, 
+26 ###
+wedding, corleone, war, captain, killed, shot, drug, escape, german, gun, 
+27 ###
+paul, prison, guard, red, warden, prisoner, cell, several, dangerous, travel, 
+28 ###
+soldier, war, army, officer, british, attack, captain, german, battle, enemy, 
+29 ###
+teacher, barnes, parent, pilot, caught, done, boy, escape, believe, stone, 
+30 ###
+gun, team, shoot, kill, blood, race, grab, fire, killing, big, 
+31 ###
+dragon, scar, elisabet, laugh, request, baby, mental, nurse, finding, upon, 
+32 ###
+truck, crew, indy, german, nazi, oil, frank, ship, captain, american, 
+33 ###
+bride, walter, pregnant, revenge, bill, deadly, kill, sword, eye, baby, 
+34 ###
+juror, guilty, boy, murder, change, witness, heard, kill, fact, knife, 
+35 ###
+mildred, hospital, patient, doctor, mental, chief, nurse, flashback, violence, dying, 
+36 ###
+boy, parent, law, sick, brand, food, year, paper, couple, guest, 
+37 ###
+general, russian, wealthy, tramp, mireau, rich, reply, party, suicide, informs, 
+38 ###
+barry, lord, british, captain, horse, mean, husband, marriage, public, desert, 
+39 ###
+frank, dance, cabin, gold, big, harmonica, train, hall, rhett, professor, 
+40 ###
+train, johnnie, bridge, track, general, union, big, line, officer, army, 
+41 ###
+church, kid, oil, baby, lot, covered, suggests, truck, big, hard, 
+42 ###
+harmonica, frank, train, star, ship, noodle, hal, birthday, hall, station, 
+43 ###
+frank, harmonica, water, check, land, cross, build, husband, club, photo, 
+44 ###
+isak, professor, married, played, couple, marriage, husband, cold, figure, although, 
+45 ###
+pride, king, flashback, corleone, revenge, kill, deal, killed, policeman, murdered, 
+46 ###
+ring, luke, dark, power, vader, force, star, ship, earth, leia, 
+47 ###
+forest, spirit, gold, monster, rock, river, land, journey, scream, encounter, 
+48 ###
+escape, tunnel, prisoner, camp, board, german, train, guard, steal, officer, 
+49 ###
+dog, knight, answer, god, across, black, base, alien, barry, lost, 
+50 ###
+memory, joy, marion, bird, motel, crane, fear, anger, adventure, parent, 
+51 ###
+german, hitler, nazi, jewish, jew, trick, war, stage, camp, radio, 
+52 ###
+park, kanji, friendly, worker, union, owner, horror, public, manages, falling, 
+53 ###
+ring, detective, box, judah, lord, lead, girlfriend, finding, lost, step, 
+54 ###
+stone, indy, rocket, henry, jones, marion, army, power, remaining, team, 
+55 ###
+act, marion, dy, isak, parent, theater, roger, figure, rhett, escape, 
+56 ###
+luke, ace, rebel, han, vader, imperial, emperor, star, leia, force, 
+57 ###
+south, american, tour, kurtz, bell, driver, black, officer, deep, green, 
+58 ###
+mile, spider, fight, japanese, ring, win, fighter, round, fighting, training, 
+59 ###
+white, sheriff, judge, black, tank, bill, atticus, court, jail, justice, 
+0 ###
+truck, fire, arrives, reach, mask, water, happy, ride, tree, word, 
+1 ###
+aunt, food, struggle, sell, city, heart, imperial, thanks, born, station, 
+2 ###
+fletcher, nicky, jimmy, mill, hal, thief, lead, quickly, throw, condition, 
+3 ###
+doc, training, match, lorraine, win, dance, future, loses, every, suit, 
+4 ###
+star, stage, bank, married, area, river, tear, monster, alien, ash, 
+5 ###
+witch, neil, castle, knight, king, guard, sir, fire, approach, party, 
+6 ###
+joe, music, band, playing, war, chase, arrives, invite, rich, close, 
+7 ###
+harvey, marine, mob, weapon, hero, arrives, clean, shoot, gun, hospital, 
+8 ###
+alien, crew, ship, space, maximus, creature, ash, computer, system, planet, 
+9 ###
+letter, murder, husband, lawyer, victim, document, suspect, evidence, owner, married, 
+10 ###
+sex, government, lead, news, parent, support, party, public, result, others, 
+11 ###
+narrator, group, club, fight, control, lot, self, everything, ask, completely, 
+12 ###
+gang, noodle, crime, boy, violent, drug, year, killed, criminal, thug, 
+13 ###
+frank, king, barry, travel, escape, husband, reporter, harmonica, marriage, kurtz, 
+14 ###
+schultz, slave, kill, free, power, master, daniel, battle, fight, horse, 
+15 ###
+mansion, writer, silent, star, joe, pool, arrive, accepts, party, lead, 
+16 ###
+corleone, officer, samurai, war, killed, bridge, prisoner, escape, luke, bandit, 
+17 ###
+village, samurai, bandit, fight, battle, attack, giant, killed, training, post, 
+18 ###
+dog, parker, strange, professor, every, entire, unknown, board, ash, struggle, 
+19 ###
+lady, count, war, marry, rhett, sword, ashley, kiss, wish, king, 
+20 ###
+city, worker, alfred, henchman, chase, murder, justice, beat, crime, murdered, 
+21 ###
+hospital, lie, creature, sleep, final, bring, person, including, several, forced, 
+22 ###
+kane, newspaper, reporter, word, lost, course, reveal, final, came, suicide, 
+23 ###
+earth, fish, planet, ship, black, space, land, great, prince, future, 
+24 ###
+god, black, across, knight, answer, returning, toward, country, lost, star, 
+25 ###
+priest, king, hunter, reporter, mention, court, roger, cover, judge, press, 
+26 ###
+wedding, corleone, war, captain, killed, shot, drug, escape, german, gun, 
+27 ###
+paul, prison, guard, red, warden, prisoner, cell, several, dangerous, travel, 
+28 ###
+soldier, war, army, officer, british, attack, captain, german, battle, enemy, 
+29 ###
+teacher, barnes, parent, pilot, caught, done, boy, escape, believe, stone, 
+30 ###
+gun, team, shoot, kill, blood, race, grab, fire, killing, big, 
+31 ###
+dragon, scar, elisabet, laugh, request, baby, mental, nurse, finding, upon, 
+32 ###
+truck, crew, indy, german, nazi, oil, frank, ship, captain, american, 
+33 ###
+bride, walter, pregnant, revenge, bill, deadly, kill, sword, eye, baby, 
+34 ###
+juror, guilty, boy, murder, change, witness, heard, kill, fact, knife, 
+35 ###
+mildred, hospital, patient, doctor, mental, chief, nurse, flashback, violence, dying, 
+36 ###
+boy, parent, law, sick, brand, food, year, paper, couple, guest, 
+37 ###
+general, russian, wealthy, tramp, mireau, rich, reply, party, suicide, informs, 
+38 ###
+barry, lord, british, captain, horse, mean, husband, marriage, public, desert, 
+39 ###
+frank, dance, cabin, gold, big, harmonica, train, hall, rhett, professor, 
+40 ###
+train, johnnie, bridge, track, general, union, big, line, officer, army, 
+41 ###
+church, kid, oil, baby, lot, covered, suggests, truck, big, hard, 
+42 ###
+harmonica, frank, train, star, ship, noodle, hal, birthday, hall, station, 
+43 ###
+frank, harmonica, water, check, land, cross, build, husband, club, photo, 
+44 ###
+isak, professor, married, played, couple, marriage, husband, cold, figure, although, 
+45 ###
+pride, king, flashback, corleone, revenge, kill, deal, killed, policeman, murdered, 
+46 ###
+ring, luke, dark, power, vader, force, star, ship, earth, leia, 
+47 ###
+forest, spirit, gold, monster, rock, river, land, journey, scream, encounter, 
+48 ###
+escape, tunnel, prisoner, camp, board, german, train, guard, steal, officer, 
+49 ###
+dog, knight, answer, god, across, black, base, alien, barry, lost, 
+50 ###
+memory, joy, marion, bird, motel, crane, fear, anger, adventure, parent, 
+51 ###
+german, hitler, nazi, jewish, jew, trick, war, stage, camp, radio, 
+52 ###
+park, kanji, friendly, worker, union, owner, horror, public, manages, falling, 
+53 ###
+ring, detective, box, judah, lord, lead, girlfriend, finding, lost, step, 
+54 ###
+stone, indy, rocket, henry, jones, marion, army, power, remaining, team, 
+55 ###
+act, marion, dy, isak, parent, theater, roger, figure, rhett, escape, 
+56 ###
+luke, ace, rebel, han, vader, imperial, emperor, star, leia, force, 
+57 ###
+south, american, tour, kurtz, bell, driver, black, officer, deep, green, 
+58 ###
+mile, spider, fight, japanese, ring, win, fighter, round, fighting, training, 
+59 ###
+white, sheriff, judge, black, tank, bill, atticus, court, jail, justice, 
+0 ###
+truck, escape, gun, fire, water, train, team, shoot, guard, officer, 
+1 ###
+luke, ace, han, rebel, vader, imperial, leia, star, obi, ship, 
+2 ###
+mildred, prison, fletcher, patient, hospital, doctor, red, guard, teacher, boy, 
+3 ###
+mile, memory, race, dog, joy, spider, big, doc, black, parent, 
+4 ###
+paul, british, training, gold, kurtz, kill, desert, travel, planet, force, 
+5 ###
+park, indy, rocket, marion, witch, neil, monster, knight, kanji, stone, 
+6 ###
+fight, ring, band, win, fighter, round, dog, training, fighting, match, 
+7 ###
+soldier, war, general, army, officer, american, enemy, attack, battle, unit, 
+8 ###
+stone, earth, power, kill, ship, destroy, space, strange, computer, maximus, 
+9 ###
+murder, boy, letter, husband, lead, party, event, parent, detective, learns, 
+10 ###
+german, priest, church, hitler, nazi, camp, war, jewish, jew, document, 
+11 ###
+narrator, fish, juror, kane, guilty, tank, group, club, mouth, support, 
+12 ###
+gang, drug, boy, joe, mob, henry, crime, jimmy, noodle, killed, 
+13 ###
+frank, white, kill, shoot, gun, sheriff, fire, deal, shotgun, shot, 
+14 ###
+schultz, slave, king, war, hunter, free, battle, scar, emperor, fight, 
+15 ###
+bill, kid, writer, star, joe, mansion, silent, party, lead, shoot, 
+16 ###
+corleone, elisabet, tramp, luke, japanese, bridge, river, prisoner, warden, hero, 
+17 ###
+city, alfred, harvey, worker, samurai, village, bandit, fight, crane, cop, 
+18 ###
+alien, parker, dragon, creature, ship, strange, ash, crew, dog, space, 
+19 ###
+lady, count, forest, barry, spirit, bride, japanese, god, sword, lord, 
+0 ###
+music, south, deep, tour, encounter, great, american, write, anger, pride, 
+1 ###
+mile, oil, power, sneak, getting, truck, bit, word, always, almost, 
+2 ###
+fletcher, race, daniel, jimmy, hal, condition, mission, black, forced, ever, 
+3 ###
+doc, lorraine, future, truck, mark, key, van, fire, parent, flat, 
+4 ###
+barry, lord, captain, army, win, loses, mean, boy, wealthy, hard, 
+5 ###
+neil, french, bank, guard, crew, officer, killing, criminal, captain, unit, 
+6 ###
+prison, guard, prisoner, cell, warden, several, sent, record, box, fellow, 
+7 ###
+middle, moving, leg, couple, girlfriend, nurse, stair, light, discover, dog, 
+8 ###
+red, maximus, lead, line, ever, message, crowd, guard, action, might, 
+9 ###
+murder, detective, cop, suspect, photo, lead, station, killed, event, murdered, 
+10 ###
+escape, picture, captain, german, boy, nazi, screen, noodle, talking, leader, 
+11 ###
+earth, plant, future, year, planet, escape, land, great, air, everything, 
+12 ###
+gang, noodle, boy, killed, key, shooting, dog, worker, restaurant, party, 
+13 ###
+frank, barry, harmonica, general, war, train, attack, officer, kurtz, killed, 
+14 ###
+stone, battle, power, army, kill, attack, force, rebel, destroy, planet, 
+15 ###
+mansion, samurai, village, bandit, joe, silent, although, party, shoot, attack, 
+16 ###
+god, others, knight, across, black, answer, returned, returning, forest, travel, 
+17 ###
+worker, city, tramp, baby, samurai, patient, village, kid, fake, hospital, 
+18 ###
+alien, space, ship, planet, crew, creature, ash, signal, earth, kane, 
+19 ###
+lady, marry, tree, ground, falling, taking, bad, anger, beautiful, dressed, 
+20 ###
+worker, city, cause, heart, fake, rich, accident, paul, killed, attack, 
+21 ###
+memory, fear, mind, idea, happy, blue, touch, thought, wanted, control, 
+22 ###
+lord, request, samurai, sword, suicide, power, wish, wounded, fate, forced, 
+23 ###
+doc, judah, lorraine, crew, mansion, joe, captain, ash, ship, star, 
+24 ###
+marion, doc, knight, motel, rhett, ashley, lorraine, king, party, sir, 
+25 ###
+professor, roger, plane, spy, newspaper, government, train, beautiful, samurai, manages, 
+26 ###
+corleone, killed, escape, war, german, doc, shot, captain, officer, prisoner, 
+27 ###
+escape, made, save, use, alfred, city, group, arrives, secret, getting, 
+28 ###
+officer, bridge, mission, captain, river, chief, cover, enemy, soldier, shot, 
+29 ###
+parent, teacher, barnes, boy, violent, year, crime, future, released, sex, 
+30 ###
+dog, team, mask, fire, henchman, cop, tunnel, city, enter, jump, 
+31 ###
+marine, public, picture, screen, talking, theater, credit, especially, barely, star, 
+32 ###
+kurtz, truck, german, war, indy, american, nazi, officer, mission, judge, 
+33 ###
+soldier, war, american, battle, squad, unit, sergeant, army, enemy, wounded, 
+34 ###
+juror, general, tramp, war, attack, bomb, johnnie, officer, guilty, union, 
+35 ###
+hospital, mildred, patient, mental, nurse, chief, violence, angry, sent, girlfriend, 
+36 ###
+boy, parent, doctor, sick, food, brand, law, couple, seen, hard, 
+37 ###
+mireau, reply, sergeant, french, professor, general, military, squad, officer, command, 
+38 ###
+court, judge, trial, kane, evidence, justice, newspaper, made, crime, general, 
+39 ###
+frank, hitler, drug, nazi, deal, kill, mansion, gun, message, american, 
+40 ###
+war, russian, johnnie, army, supply, general, chase, train, water, track, 
+41 ###
+aunt, food, sell, struggle, japanese, picture, heart, table, thanks, convinces, 
+42 ###
+train, sheriff, bill, station, harmonica, ride, horse, kid, kill, gun, 
+43 ###
+land, build, buy, water, frank, british, harmonica, train, power, cross, 
+44 ###
+water, cross, land, hired, husband, department, chief, hal, power, glass, 
+45 ###
+general, british, soldier, colonel, war, military, attack, major, army, informs, 
+46 ###
+luke, vader, star, leia, fight, imperial, han, obi, rebel, force, 
+47 ###
+kurtz, rhett, band, joe, insists, war, arrives, bathroom, happened, knife, 
+48 ###
+german, camp, nazi, escape, war, officer, prisoner, french, train, guard, 
+49 ###
+barry, dog, friendly, base, union, killed, alien, news, team, everyone, 
+50 ###
+marion, motel, mill, crane, check, bank, sheriff, cabin, stolen, cash, 
+51 ###
+hitler, trick, message, nazi, stage, secret, german, write, pilot, box, 
+52 ###
+park, church, lawyer, kid, law, mention, paper, kanji, team, suggests, 
+53 ###
+ring, mountain, lost, destroy, giant, step, shadow, foot, steal, grab, 
+54 ###
+priest, court, cover, letter, earlier, involved, trial, asked, policeman, different, 
+55 ###
+military, murder, rhett, party, ashley, wing, roger, government, cover, war, 
+56 ###
+ace, forest, spirit, hunter, ride, fear, stone, box, princess, neck, 
+57 ###
+boat, ship, crew, save, captain, army, special, true, helicopter, sent, 
+58 ###
+fight, japanese, fighter, round, ring, fighting, enters, former, train, final, 
+59 ###
+white, black, atticus, officer, store, sheriff, paper, jail, shot, shoot, 
+60 ###
+victim, dragon, narrator, document, reporter, killer, news, survivor, justice, sent, 
+61 ###
+water, van, power, cross, pick, team, vehicle, reach, someone, race, 
+62 ###
+husband, knight, walter, castle, murder, judah, noodle, king, party, gang, 
+63 ###
+judah, empire, ship, star, finding, luke, dark, battle, prison, force, 
+64 ###
+doc, lorraine, future, dance, tree, kiss, slip, king, truck, match, 
+65 ###
+bomb, war, attack, general, american, base, air, force, former, act, 
+66 ###
+process, personal, loss, within, discovered, wanting, victim, important, learns, decide, 
+67 ###
+joe, band, mansion, playing, arrives, invite, party, called, writer, leader, 
+68 ###
+bell, prince, village, fighting, boy, thief, kiss, beautiful, reply, carrying, 
+69 ###
+slave, married, wedding, restaurant, pregnant, owner, nicky, marriage, sex, husband, 
+70 ###
+frank, harmonica, track, prison, travel, us, address, upon, sound, informs, 
+71 ###
+training, win, fight, match, club, group, lose, support, true, watching, 
+72 ###
+truck, fire, pistol, driver, desert, climb, road, exchange, light, kill, 
+73 ###
+tramp, operation, wealthy, rich, party, mansion, recognizes, change, doctor, jail, 
+74 ###
+ring, luke, deep, star, angel, writer, rebel, battle, wish, professor, 
+75 ###
+gun, shoot, kill, drug, killed, bullet, demand, several, deal, harvey, 
+76 ###
+bride, samurai, bandit, village, sword, kill, fight, revenge, battle, killed, 
+77 ###
+paul, fish, travel, including, born, die, dangerous, might, allow, killing, 
+78 ###
+spirit, indy, paper, patient, marion, staff, thief, nazi, detective, nurse, 
+79 ###
+sword, bride, indy, blood, samurai, bandit, kanji, kill, deadly, fight, 
+80 ###
+elisabet, luke, vader, officer, bridge, han, prisoner, leia, nurse, japanese, 
+81 ###
+indy, rocket, bomb, jones, plane, weapon, nazi, marion, army, escape, 
+82 ###
+letter, affair, mark, flat, key, husband, party, married, hide, desk, 
+83 ###
+baby, box, boy, kid, grows, discovered, abandoned, discover, hope, rescue, 
+84 ###
+count, castle, witch, fire, knight, troop, taken, die, sir, torture, 
+85 ###
+roger, noodle, kurtz, ash, professor, station, crew, creature, killed, train, 
+86 ###
+king, rock, land, rescue, master, manages, travel, escape, coming, happened, 
+87 ###
+juror, guilty, murder, witness, boy, trial, change, heard, beyond, evidence, 
+88 ###
+spider, jones, steal, free, strange, creature, survivor, grab, us, action, 
+89 ###
+luke, han, vader, imperial, leia, star, obi, rebel, ship, empire, 
+90 ###
+german, escape, officer, camp, party, prisoner, tunnel, kurtz, military, war, 
+91 ###
+elisabet, nurse, image, husband, hospital, sound, career, camera, appear, boy, 
+92 ###
+walter, jewish, husband, wonder, beyond, ash, cash, full, convinced, reason, 
+93 ###
+parker, strange, revealed, different, brings, ash, attack, kane, alien, use, 
+94 ###
+gold, bird, monster, adventure, big, spirit, hat, giant, hall, loses, 
+95 ###
+tank, bill, audience, laugh, stage, chair, follows, lead, green, kiss, 
+96 ###
+luke, han, vader, obi, imperial, ship, doc, force, leia, star, 
+97 ###
+isak, professor, kane, band, word, almost, figure, joe, several, whose, 
+98 ###
+project, deep, series, fate, doc, captain, boy, parent, attack, future, 
+99 ###
+schultz, joy, jewish, jew, free, big, action, important, hiding, played, 
+0 ###
+water, arrives, reach, nearby, tank, ride, quickly, god, escape, near, 
+1 ###
+truck, planet, luke, han, vader, ship, space, light, mission, force, 
+2 ###
+paul, fletcher, guard, prison, warden, red, prisoner, cell, might, rest, 
+3 ###
+van, memory, elevator, sound, bar, condition, pick, jimmy, truck, doc, 
+4 ###
+village, bandit, maximus, emperor, battle, fight, plot, kill, general, training, 
+5 ###
+bird, castle, witch, neil, knight, fly, king, guard, using, fire, 
+6 ###
+joe, band, nicky, mob, war, playing, chase, arrives, bullet, throw, 
+7 ###
+gold, hat, stair, leg, dog, moving, sleep, rain, hall, grab, 
+8 ###
+parker, alien, strange, space, ash, spider, creature, ship, planet, crew, 
+9 ###
+cop, french, court, torture, arrested, crime, policeman, arrest, witness, stolen, 
+10 ###
+german, nazi, jewish, jew, camp, war, american, army, officer, government, 
+11 ###
+doc, corleone, king, reporter, lorraine, travel, husband, escape, marriage, war, 
+12 ###
+gang, document, crime, jimmy, boy, noodle, law, steal, drug, year, 
+13 ###
+dog, team, american, base, station, helicopter, form, camp, mouth, pilot, 
+14 ###
+stone, slave, power, battle, fight, army, kill, war, free, escape, 
+15 ###
+mansion, private, writer, learns, invite, flat, silent, star, dance, picture, 
+16 ###
+spirit, baby, river, bridge, big, adventure, discover, warden, pass, grows, 
+17 ###
+worker, barry, city, friendly, fake, kane, heart, cause, newspaper, killed, 
+18 ###
+alien, creature, victim, team, ship, crew, space, signal, parker, planet, 
+19 ###
+lady, count, bride, marry, ground, sword, kiss, wedding, kill, tree, 
+20 ###
+city, worker, alfred, save, basement, destroyed, informs, scream, chase, getting, 
+21 ###
+memory, ship, space, earth, alien, samurai, escape, luke, hal, station, 
+22 ###
+samurai, sword, request, lord, middle, attack, journey, final, although, wounded, 
+23 ###
+memory, earth, planet, plant, mind, anger, future, fear, steal, happy, 
+24 ###
+church, reporter, kid, paper, newspaper, press, public, kane, investigate, knew, 
+25 ###
+priest, mention, roger, court, cover, suggests, everyone, earlier, center, involved, 
+26 ###
+corleone, wedding, killed, war, mob, shot, shoot, gun, drug, doc, 
+27 ###
+prison, jail, check, angel, released, year, save, nurse, middle, war, 
+28 ###
+soldier, war, general, army, captain, officer, german, squad, enemy, colonel, 
+29 ###
+luke, noodle, vader, han, captain, ship, rebel, escape, imperial, gang, 
+30 ###
+henchman, pistol, cop, fire, mask, jump, thug, gun, shot, roof, 
+31 ###
+scar, elisabet, image, nurse, appear, begs, grows, laugh, everyone, desert, 
+32 ###
+truck, frank, nazi, news, hitler, crew, german, oil, american, captain, 
+33 ###
+kill, blood, killing, shoot, fire, killed, eye, gun, murdered, murder, 
+34 ###
+juror, rhett, ashley, guilty, war, union, murder, witness, boy, change, 
+35 ###
+hospital, mildred, patient, interview, mental, staff, chief, sex, violence, nurse, 
+36 ###
+boy, south, travel, brand, sick, food, owner, hunter, doctor, hard, 
+37 ###
+judge, bomb, government, cell, country, court, admits, force, plane, soldier, 
+38 ###
+schultz, horse, big, german, free, deal, arrive, kill, wanted, coming, 
+39 ###
+dance, cabin, hall, gold, big, frank, ship, foot, tramp, rhett, 
+40 ###
+train, johnnie, union, track, general, line, army, spy, officer, bridge, 
+41 ###
+japanese, forest, aunt, british, village, battle, build, food, struggle, spirit, 
+42 ###
+harmonica, frank, train, barry, station, luke, ship, gun, noodle, friendly, 
+43 ###
+fish, land, water, department, chief, cross, build, photo, address, club, 
+44 ###
+music, husband, photo, married, isak, event, marriage, whose, great, affair, 
+45 ###
+daniel, pride, oil, rock, flashback, condition, mission, funeral, follows, killed, 
+46 ###
+ship, crew, hal, black, computer, mission, earth, space, system, pilot, 
+47 ###
+monster, gold, atticus, city, rhett, ashley, hat, war, shoot, trip, 
+48 ###
+escape, prisoner, tunnel, officer, prison, true, guard, board, escaped, train, 
+49 ###
+king, reporter, dog, base, luke, alien, ship, marriage, husband, creature, 
+50 ###
+marion, motel, crane, sheriff, bank, cabin, guest, store, stolen, figure, 
+51 ###
+hitler, pilot, nazi, message, german, plane, hiding, remaining, theater, radio, 
+52 ###
+park, red, friendly, rock, message, worker, throw, owner, kid, murder, 
+53 ###
+detective, trick, box, ring, chase, theater, girlfriend, hat, train, chair, 
+54 ###
+indy, escape, luke, band, joe, samurai, roger, ship, german, nazi, 
+55 ###
+gang, kill, nearby, thug, samurai, killed, pistol, carry, guard, fire, 
+56 ###
+luke, ace, han, vader, rebel, leia, star, obi, imperial, princess, 
+57 ###
+truck, driver, shotgun, fire, drug, vehicle, deal, driving, officer, american, 
+58 ###
+escape, fight, frank, schultz, camp, ring, german, fighter, war, jew, 
+59 ###
+white, black, walter, lawyer, sheriff, atticus, paper, kid, shot, deep, 
+60 ###
+dragon, killer, match, knight, across, god, made, bring, forest, search, 
+61 ###
+team, race, kid, record, someone, jones, plant, bar, information, professor, 
+62 ###
+kurtz, indy, war, marion, killed, major, knight, insists, officer, seen, 
+63 ###
+tramp, judah, news, marion, captain, luke, emperor, air, god, motel, 
+64 ###
+mile, king, doc, lorraine, tree, future, power, land, fire, ride, 
+65 ###
+parent, boy, joy, teacher, lead, action, always, lie, result, desperate, 
+66 ###
+victim, news, entire, city, took, problem, deal, decide, discovered, within, 
+67 ###
+indy, samurai, bandit, joe, band, marion, priest, nazi, jones, sword, 
+68 ###
+bell, prince, thief, filled, kiss, reply, carrying, huge, cry, image, 
+69 ###
+made, throw, restaurant, asking, pregnant, bar, use, red, pick, running, 
+70 ###
+frank, harmonica, train, track, station, us, already, wedding, informs, sound, 
+71 ###
+fight, ring, spider, training, win, fighter, round, fighting, enters, match, 
+72 ###
+truck, roger, atticus, plane, angel, road, professor, gun, field, oil, 
+73 ###
+wealthy, win, tramp, party, rich, suicide, hope, country, authority, operation, 
+74 ###
+marine, military, battle, training, course, public, empty, star, force, attacked, 
+75 ###
+gun, shoot, several, letter, kill, killed, harvey, weapon, group, guard, 
+76 ###
+murder, party, lawyer, audience, secret, stage, bill, former, key, letter, 
+77 ###
+barry, narrator, lord, club, fight, british, pistol, horse, mean, control, 
+78 ###
+indy, rocket, henry, jones, nazi, power, hitler, fly, stone, marion, 
+79 ###
+kanji, writer, affair, city, frank, doctor, killing, dying, light, kill, 
+0 ###
+gun, truck, fire, killed, kill, shot, shoot, road, killing, across, 
+1 ###
+luke, han, vader, leia, imperial, rebel, ship, force, obi, planet, 
+2 ###
+boy, fletcher, gang, jimmy, playing, steal, war, condition, quickly, former, 
+3 ###
+doc, lorraine, future, truck, parent, van, band, dance, fire, kiss, 
+4 ###
+village, samurai, kurtz, mission, bandit, killed, barry, war, band, battle, 
+5 ###
+count, witch, neil, castle, guard, approach, fire, continue, heart, simply, 
+6 ###
+rhett, luke, ashley, war, prisoner, warden, prison, guard, soldier, union, 
+7 ###
+general, mireau, johnnie, soldier, war, officer, schultz, attack, line, army, 
+8 ###
+maximus, message, fellow, born, grows, abandoned, passing, dy, audience, write, 
+9 ###
+american, bomb, killing, shooting, base, shot, group, gun, weapon, captain, 
+10 ###
+parent, boy, teacher, always, lead, year, result, lie, older, others, 
+11 ###
+drug, mob, criminal, killed, violence, hospital, girlfriend, shoot, deal, buy, 
+12 ###
+water, doc, noodle, frank, drug, band, cross, joe, gang, land, 
+13 ###
+kurtz, dog, base, barry, team, killed, russian, american, camp, alien, 
+14 ###
+battle, power, attack, army, kill, force, destroy, ride, fight, anger, 
+15 ###
+village, battle, post, food, giant, fight, boy, training, bandit, kill, 
+16 ###
+corleone, war, killed, wedding, officer, captain, nazi, hospital, letter, major, 
+17 ###
+city, worker, heart, fake, realize, future, cause, different, rich, use, 
+18 ###
+water, indy, gang, kill, marion, cross, nearby, nazi, samurai, husband, 
+19 ###
+barry, rhett, war, lady, cabin, dance, army, ashley, gold, big, 
+20 ###
+doc, lorraine, worker, future, fight, parent, dance, city, lot, band, 
+21 ###
+kurtz, mission, boat, army, officer, hal, colonel, crew, frank, chief, 
+22 ###
+mission, captain, bell, follows, kiss, officer, green, arrives, corleone, fear, 
+23 ###
+slave, letter, german, free, paper, husband, owner, alive, immediately, receives, 
+24 ###
+kid, reporter, staff, newspaper, paper, press, investigate, knew, news, went, 
+25 ###
+roger, plane, wood, professor, locked, information, prove, address, dinner, escape, 
+26 ###
+gold, eye, angel, bad, shoot, union, called, escape, gun, battle, 
+27 ###
+adventure, accidentally, thanks, angel, save, promise, sneak, evil, loses, wing, 
+28 ###
+gold, officer, bridge, luke, johnnie, hal, mission, train, japanese, han, 
+29 ###
+frank, luke, harmonica, captain, fight, train, vader, obi, ship, imperial, 
+30 ###
+deal, horse, shoot, kill, big, act, revenge, partner, kid, number, 
+31 ###
+dragon, victim, document, killer, law, murder, team, detective, crime, city, 
+32 ###
+letter, nazi, gang, german, win, kill, big, killed, gun, leader, 
+33 ###
+knight, mireau, king, castle, general, indy, french, sir, soldier, attack, 
+34 ###
+soldier, german, general, squad, war, enemy, sergeant, unit, officer, army, 
+35 ###
+kane, word, newspaper, final, lost, reporter, shot, everything, wanted, dy, 
+36 ###
+south, travel, hunter, eat, bar, road, abandoned, silent, food, speak, 
+37 ###
+war, british, army, supply, desert, general, force, fight, attack, leader, 
+38 ###
+barry, lady, harmonica, frank, british, army, war, lord, husband, train, 
+39 ###
+fight, ring, fighter, round, spider, punch, training, grab, crowd, corner, 
+40 ###
+angel, born, bank, tree, wing, arrives, whole, save, arrest, giving, 
+41 ###
+officer, doc, british, bridge, lorraine, japanese, rhett, war, ashley, murder, 
+42 ###
+earth, plant, future, planet, dangerous, year, land, escape, destroy, everything, 
+43 ###
+land, build, department, water, project, frank, suspect, record, buy, harmonica, 
+44 ###
+project, power, boy, future, powerful, report, thus, card, including, event, 
+45 ###
+corleone, revenge, rebel, kill, shot, nothing, flashback, black, party, killed, 
+46 ###
+luke, star, leia, vader, rebel, emperor, han, fight, dark, force, 
+47 ###
+fight, ring, fighter, spider, government, prison, rhett, eye, taking, round, 
+48 ###
+escape, tunnel, german, prisoner, camp, officer, board, soldier, train, guard, 
+49 ###
+green, restaurant, follows, mission, spot, wear, hearing, blood, image, murder, 
+50 ###
+marion, motel, leg, girlfriend, village, across, samurai, whose, coming, sleep, 
+51 ###
+hitler, nazi, german, pilot, remaining, arrives, final, leader, theater, report, 
+52 ###
+kanji, public, affair, dying, funeral, chief, luke, waiting, city, whatever, 
+53 ###
+detective, ring, paper, step, box, pocket, almost, number, trap, train, 
+54 ###
+bride, sword, revenge, fight, murder, baby, former, witness, character, heard, 
+55 ###
+rhett, ashley, war, soldier, union, south, army, marry, city, field, 
+56 ###
+ace, rebel, princess, stone, troop, giving, task, killed, box, catch, 
+57 ###
+truck, kurtz, road, oil, mission, american, fire, boat, crew, sent, 
+58 ###
+middle, journey, lord, request, sword, samurai, baby, forced, turned, arrives, 
+59 ###
+white, black, lawyer, officer, deep, called, shot, check, forward, incident, 
+60 ###
+bill, stage, audience, killer, lead, used, catch, kid, miss, anyone, 
+61 ###
+photo, cross, land, water, doc, hired, confronts, lorraine, partner, cop, 
+62 ###
+music, sick, write, decide, understand, boy, law, clean, initially, suggests, 
+63 ###
+star, luke, church, river, bank, audience, push, group, seen, prison, 
+64 ###
+lorraine, doc, future, dance, angel, king, knight, tree, admits, fire, 
+65 ###
+bathroom, knife, slowly, former, happened, cat, hiding, drink, approach, warns, 
+66 ###
+juror, guilty, boy, murder, witness, change, trial, kill, evidence, several, 
+67 ###
+indy, marion, nazi, jones, stone, army, location, hitler, government, staff, 
+68 ###
+husband, wound, murder, kill, shoot, reason, seeing, ability, claiming, hears, 
+69 ###
+isak, pregnant, couple, fear, although, married, law, encounter, husband, decision, 
+70 ###
+frank, former, track, prison, upon, wedding, informs, travel, land, crowd, 
+71 ###
+fight, reporter, ring, king, fighter, marriage, kurtz, spider, punch, travel, 
+72 ###
+samurai, angel, roger, lord, suicide, arrives, request, sword, whole, bank, 
+73 ###
+roger, plane, professor, train, government, escape, nothing, authority, manages, change, 
+74 ###
+luke, star, fight, rebel, match, angel, han, bathroom, leia, emperor, 
+75 ###
+owner, kill, sheriff, hunter, rifle, deadly, encounter, south, ride, bullet, 
+76 ###
+tank, bandit, samurai, great, protect, upon, passing, attack, holding, revealed, 
+77 ###
+barry, lord, captain, army, british, horse, great, power, middle, older, 
+78 ###
+water, cross, land, department, chief, husband, hired, supply, detective, glass, 
+79 ###
+kanji, military, murder, party, escape, bandit, samurai, cover, wing, killing, 
+80 ###
+elisabet, corleone, act, samurai, fire, arrives, theater, isak, request, parent, 
+81 ###
+stone, indy, rocket, henry, jones, travel, marion, army, power, fight, 
+82 ###
+letter, affair, mark, kill, key, hired, flat, married, murder, steal, 
+83 ###
+writer, professor, area, luke, lead, wish, reach, mission, bar, ship, 
+84 ###
+soldier, torture, cell, several, grenade, trial, court, cry, taken, die, 
+85 ###
+luke, roger, han, vader, leia, city, force, light, escape, dark, 
+86 ###
+captain, crew, officer, chief, boat, reporter, ship, king, german, samurai, 
+87 ###
+judah, revenge, empire, marion, officer, prince, motel, finding, change, pas, 
+88 ###
+hitler, nazi, alien, officer, theater, quickly, creature, message, german, kill, 
+89 ###
+luke, vader, obi, ship, imperial, han, force, star, empire, station, 
+90 ###
+escape, roger, german, luke, gang, prisoner, obi, camp, officer, government, 
+91 ###
+scar, tree, hal, elisabet, hospital, born, rock, important, detail, pain, 
+92 ###
+brand, year, planet, law, longer, elderly, decide, dinner, feeling, couple, 
+93 ###
+parker, strange, ash, board, crew, ship, attack, alien, kane, creature, 
+94 ###
+big, cabin, hall, shotgun, dance, foot, strike, card, black, party, 
+95 ###
+eye, partner, angel, different, bad, catch, survivor, chance, girlfriend, returning, 
+96 ###
+luke, vader, imperial, star, leia, rebel, han, obi, empire, ship, 
+97 ###
+memory, mind, idea, fear, blue, miss, touch, wanted, cry, short, 
+98 ###
+gold, spirit, ultimately, bad, bandit, land, monster, green, hat, kill, 
+99 ###
+party, investigation, government, authority, interview, murdered, career, based, policeman, murder, 
+100 ###
+sex, lot, record, box, couple, leg, clothes, sleep, grab, across, 
+101 ###
+luke, han, vader, imperial, leia, rebel, ship, city, planet, obi, 
+102 ###
+hal, joe, mansion, mission, computer, frank, group, approach, space, earth, 
+103 ###
+called, earth, test, mark, escape, roof, memory, letter, club, short, 
+104 ###
+fight, captain, ring, crew, officer, fighter, chief, shot, spider, doc, 
+105 ###
+doc, lorraine, marion, war, future, motel, schultz, corleone, jewish, rhett, 
+106 ###
+band, joe, dinner, invite, train, escape, mob, spot, arrives, elevator, 
+107 ###
+church, becoming, met, earlier, everyone, steal, group, others, waiting, true, 
+108 ###
+mildred, team, hospital, patient, doctor, helicopter, fire, nurse, rifle, chief, 
+109 ###
+prince, reply, cry, beautiful, eye, carrying, thief, secret, filled, climb, 
+110 ###
+joy, narrator, happy, control, news, air, angry, problem, feeling, ultimately, 
+111 ###
+known, enters, every, group, lead, alfred, called, forced, brings, secret, 
+112 ###
+truck, road, oil, driving, field, bar, driver, hunter, far, fire, 
+113 ###
+dog, master, form, crash, american, blow, station, either, test, creature, 
+114 ###
+noodle, gang, leader, surface, killed, jimmy, samurai, station, boy, village, 
+115 ###
+doc, lorraine, future, officer, parent, lot, bridge, dance, van, japanese, 
+116 ###
+french, kurtz, escape, prisoner, officer, german, camp, war, soldier, bomb, 
+117 ###
+mansion, joe, doc, silent, star, frank, lorraine, shoot, writer, thinking, 
+118 ###
+luke, ship, vader, rebel, obi, imperial, force, leia, star, boy, 
+119 ###
+driver, shoot, weapon, gun, driving, city, service, marine, mireau, secret, 
+120 ###
+french, knight, bomb, marion, attack, joe, captain, soldier, motel, torture, 
+121 ###
+nicky, mill, picture, piece, trip, pregnant, task, send, forced, throw, 
+122 ###
+motel, marion, big, cabin, coming, cop, taking, number, crane, killed, 
+123 ###
+doc, lorraine, future, letter, suit, sir, dance, trip, husband, tree, 
+124 ###
+colonel, gang, chest, gun, pocket, kill, killer, hunter, bank, lock, 
+125 ###
+mansion, wealthy, rich, tramp, baby, party, wedding, encounter, thief, suicide, 
+126 ###
+jewish, jew, war, camp, army, radio, hiding, officer, military, country, 
+127 ###
+fight, club, win, match, support, lose, watching, although, spot, bos, 
+128 ###
+war, bandit, attack, general, bomb, american, samurai, frank, priest, sword, 
+129 ###
+hal, escape, german, computer, camp, earth, prisoner, group, frank, black, 
+130 ###
+ring, fight, training, fighter, round, win, fighting, train, punch, crowd, 
+131 ###
+mireau, general, officer, french, attack, reply, soldier, johnnie, colonel, line, 
+132 ###
+train, johnnie, track, general, line, army, bridge, officer, union, river, 
+133 ###
+union, friendly, barry, crime, owner, roof, ship, murdered, everyone, situation, 
+134 ###
+dance, isak, cabin, big, hall, gold, ship, tramp, strike, rush, 
+135 ###
+aunt, jones, store, food, struggle, support, taken, sell, picture, choice, 
+136 ###
+fight, ring, fighter, ready, round, grab, training, spider, admits, punch, 
+137 ###
+war, wedding, rhett, blood, ashley, pregnant, baby, wish, married, army, 
+138 ###
+daniel, han, planet, training, city, base, force, dark, wing, escape, 
+139 ###
+barry, friendly, mireau, marion, general, union, motel, soldier, killed, attack, 
+140 ###
+corleone, mark, rhett, ash, war, ashley, murder, kill, arrives, alien, 
+141 ###
+luke, han, vader, roger, leia, city, force, ship, rebel, mireau, 
+142 ###
+boat, kurtz, mission, army, helicopter, colonel, chief, crew, captain, officer, 
+143 ###
+kurtz, died, insists, accident, russian, major, station, funeral, standing, hospital, 
+144 ###
+frank, harmonica, doc, train, lorraine, station, prison, future, ride, gang, 
+145 ###
+boy, picture, year, childhood, famous, seen, build, always, knew, tie, 
+146 ###
+marion, atticus, motel, samurai, village, sheriff, water, killed, cabin, bandit, 
+147 ###
+noodle, johnnie, gang, hal, train, union, general, line, officer, big, 
+148 ###
+tramp, captain, wealthy, ash, alien, juror, creature, parker, russian, hunter, 
+149 ###
+johnnie, knight, king, general, castle, sir, officer, line, fire, french, 
+150 ###
+knight, castle, god, lost, answer, black, encounter, detail, dy, others, 
+151 ###
+alien, creature, ash, space, ship, crew, planet, quickly, signal, jones, 
+152 ###
+knight, castle, sir, king, party, french, guard, grenade, approach, attack, 
+153 ###
+bomb, attack, general, war, base, air, force, american, plane, officer, 
+154 ###
+japanese, bridge, river, british, officer, camp, mission, build, sent, war, 
+155 ###
+luke, husband, obi, shoot, ship, murder, kill, han, officer, imperial, 
+156 ###
+water, trick, department, box, detective, shadow, exit, land, roof, knock, 
+157 ###
+king, land, buy, travel, escape, rise, collect, onto, marriage, sell, 
+158 ###
+water, cross, ash, alien, creature, department, parker, land, private, chief, 
+159 ###
+mireau, luke, general, soldier, attack, bathroom, reply, han, squad, god, 
+160 ###
+ship, escape, team, space, us, kill, black, computer, mission, group, 
+161 ###
+lady, marry, ground, touch, born, travel, knock, hard, married, ride, 
+162 ###
+prison, gang, jail, barnes, crime, released, justice, violent, beat, sex, 
+163 ###
+monster, rock, hat, finding, city, stolen, trip, especially, far, full, 
+164 ###
+walter, husband, murder, reason, whose, kill, knowing, beyond, shoot, initially, 
+165 ###
+forest, spirit, tree, hunter, form, save, land, toward, invite, food, 
+166 ###
+officer, japanese, truck, bridge, british, colonel, war, corleone, river, prisoner, 
+167 ###
+barry, british, lady, war, officer, desert, lord, army, attack, prince, 
+168 ###
+frank, harmonica, hal, captain, crew, ship, princess, kane, train, drug, 
+169 ###
+earth, schultz, called, test, memory, roof, escape, war, jew, fly, 
+170 ###
+walter, initially, returning, knowing, sits, beyond, convinced, anyone, whose, husband, 
+171 ###
+judge, trial, court, german, action, support, whether, justice, better, loss, 
+172 ###
+suspect, victim, decide, save, certain, within, discovered, whether, took, control, 
+173 ###
+schultz, rescue, free, loss, rise, hiding, force, war, escape, upon, 
+174 ###
+noodle, gang, joe, ash, news, jimmy, mansion, alien, boy, party, 
+175 ###
+luke, barry, friendly, rebel, ship, star, vader, leia, han, harmonica, 
+176 ###
+paul, prison, guard, prisoner, warden, cell, box, escape, punch, sent, 
+177 ###
+detective, evidence, husband, lawyer, court, lead, murder, event, arrested, sir, 
+178 ###
+johnnie, general, officer, worker, train, soldier, union, army, line, fire, 
+179 ###
+marine, training, enters, hero, public, course, prepares, exit, nearly, violent, 
+180 ###
+train, harmonica, station, battle, frank, worker, killing, luke, desert, land, 
+181 ###
+cop, joe, harvey, shoot, pistol, city, officer, henchman, chase, bullet, 
+182 ###
+priest, court, trial, god, different, earlier, bandit, samurai, sword, almost, 
+183 ###
+fight, dance, giant, foot, gold, kiss, hall, ship, big, cabin, 
+184 ###
+patient, nurse, chief, hospital, escape, mental, act, prison, dy, sent, 
+185 ###
+rhett, ashley, war, soldier, union, south, frank, arrives, city, former, 
+186 ###
+spider, reality, ever, grab, suggests, asking, dinner, kiss, said, talking, 
+187 ###
+roger, plane, general, professor, mireau, frank, soldier, kill, beautiful, train, 
+188 ###
+ashley, rhett, war, noodle, union, leg, dance, soldier, across, sleep, 
+189 ###
+park, red, year, nothing, lead, promise, dying, learns, employee, horror, 
+190 ###
+russian, cop, accident, station, funeral, died, informs, city, investigate, theater, 
+191 ###
+juror, guilty, murder, boy, change, witness, train, saw, kill, evidence, 
+192 ###
+mile, race, driver, truck, vehicle, power, van, speed, future, lot, 
+193 ###
+fish, mask, corleone, war, escape, upon, request, luke, great, arrives, 
+194 ###
+atticus, trial, sheriff, bridge, black, white, officer, japanese, shot, arrives, 
+195 ###
+motel, marion, crane, bank, check, sheriff, store, stolen, cash, cabin, 
+196 ###
+johnnie, general, train, gold, war, officer, army, union, attack, angel, 
+197 ###
+escape, german, camp, tunnel, prisoner, doc, war, guard, officer, quickly, 
+198 ###
+bell, great, died, church, russian, short, someone, prince, ask, reply, 
+199 ###
+mask, god, pride, emperor, plot, kill, struggle, collapse, dying, killed, 
+0 ###
+boy, django, kill, war, logan, priest, killed, train, murder, lady, 
+1 ###
+bruce, bane, batman, fire, luke, soldier, terminator, escape, officer, gordon, 
+2 ###
+cobb, paul, mile, fight, thanos, taki, dog, solomon, memory, stone, 
+0 ###
+boy, cobb, django, train, kill, fight, gun, killed, parent, logan, 
+1 ###
+bruce, bane, batman, paul, fire, escape, kill, mile, soldier, force, 
+0 ###
+boy, frank, murder, priest, train, taki, parent, church, letter, gang, 
+1 ###
+bruce, bane, batman, luke, gordon, selina, joker, gotham, city, escape, 
+2 ###
+cobb, paul, thanos, stone, mildred, earth, fletcher, team, space, parker, 
+3 ###
+mile, logan, truck, terminator, memory, neo, dude, spider, dog, carl, 
+4 ###
+django, war, fight, lady, german, soldier, schultz, solomon, brendan, kill, 
+0 ###
+frank, train, boy, land, carl, truck, sen, escape, kill, spirit, 
+1 ###
+luke, rebel, han, imperial, vader, vidal, star, leia, emperor, ship, 
+2 ###
+church, mildred, boy, fletcher, prison, gang, simba, patient, ace, hospital, 
+3 ###
+cobb, mile, taki, dog, terminator, memory, joy, mitsuha, team, jesper, 
+4 ###
+django, german, schultz, solomon, war, slave, candie, king, army, nazi, 
+5 ###
+bruce, bane, batman, gordon, selina, gotham, city, joker, dent, alfred, 
+6 ###
+paul, lady, fight, count, brendan, ashitaka, forest, joe, bride, japanese, 
+7 ###
+logan, soldier, general, war, borden, nemo, marine, miller, marlin, tank, 
+8 ###
+thanos, stone, neo, earth, parker, ship, alien, strange, morpheus, ring, 
+9 ###
+murder, letter, white, dude, killed, priest, crime, husband, gun, officer, 
+0 ###
+truck, escape, gun, fire, water, train, team, shoot, guard, officer, 
+1 ###
+luke, ace, han, rebel, vader, imperial, leia, star, obi, ship, 
+2 ###
+mildred, prison, fletcher, patient, hospital, doctor, red, guard, teacher, boy, 
+3 ###
+mile, memory, race, dog, joy, spider, big, doc, black, parent, 
+4 ###
+paul, british, training, gold, kurtz, kill, desert, travel, planet, force, 
+5 ###
+park, indy, rocket, marion, witch, neil, monster, knight, kanji, stone, 
+6 ###
+fight, ring, band, win, fighter, round, dog, training, fighting, match, 
+7 ###
+soldier, war, general, army, officer, american, enemy, attack, battle, unit, 
+8 ###
+stone, earth, power, kill, ship, destroy, space, strange, computer, maximus, 
+9 ###
+murder, boy, letter, husband, lead, party, event, parent, detective, learns, 
+10 ###
+german, priest, church, hitler, nazi, camp, war, jewish, jew, document, 
+11 ###
+narrator, fish, juror, kane, guilty, tank, group, club, mouth, support, 
+12 ###
+gang, drug, boy, joe, mob, henry, crime, jimmy, noodle, killed, 
+13 ###
+frank, white, kill, shoot, gun, sheriff, fire, deal, shotgun, shot, 
+14 ###
+schultz, slave, king, war, hunter, free, battle, scar, emperor, fight, 
+15 ###
+bill, kid, writer, star, joe, mansion, silent, party, lead, shoot, 
+16 ###
+corleone, elisabet, tramp, luke, japanese, bridge, river, prisoner, warden, hero, 
+17 ###
+city, alfred, harvey, worker, samurai, village, bandit, fight, crane, cop, 
+18 ###
+alien, parker, dragon, creature, ship, strange, ash, crew, dog, space, 
+19 ###
+lady, count, forest, barry, spirit, bride, japanese, god, sword, lord, 
+0 ###
+truck, escape, gun, fire, water, train, team, shoot, guard, officer, land, using, quickly, several, mask, reach, use, light, across, boy, 
+1 ###
+luke, ace, han, rebel, vader, imperial, leia, star, obi, ship, princess, force, empire, planet, fighter, station, attack, base, troop, dark, 
+2 ###
+mildred, prison, fletcher, patient, hospital, doctor, red, guard, teacher, boy, daniel, law, parent, nicky, mill, prisoner, warden, sent, hal, cell, 
+3 ###
+mile, memory, race, dog, joy, spider, big, doc, black, parent, food, aunt, team, happy, driver, idea, angry, getting, anger, kid, 
+4 ###
+paul, british, training, gold, kurtz, kill, desert, travel, planet, force, colonel, battle, mission, camp, group, angel, village, killing, country, future, 
+5 ###
+park, indy, rocket, marion, witch, neil, monster, knight, kanji, stone, castle, party, jones, power, scream, stair, motel, chest, rock, fly, 
+6 ###
+fight, ring, band, win, fighter, round, dog, training, fighting, match, enters, former, arrives, train, joe, punch, final, club, lose, across, 
+7 ###
+soldier, war, general, army, officer, american, enemy, attack, battle, unit, squad, marine, french, military, fire, sergeant, command, barnes, colonel, line, 
+8 ###
+stone, earth, power, kill, ship, destroy, space, strange, computer, maximus, us, attack, planet, army, group, escape, mind, spider, black, force, 
+9 ###
+murder, boy, letter, husband, lead, party, event, parent, detective, learns, married, called, year, former, sex, arrives, evidence, owner, photo, known, 
+10 ###
+german, priest, church, hitler, nazi, camp, war, jewish, jew, document, victim, team, british, escape, captain, lawyer, law, message, russian, court, 
+11 ###
+narrator, fish, juror, kane, guilty, tank, group, club, mouth, support, change, fight, sleep, everything, far, first, lost, burn, lot, self, 
+12 ###
+gang, drug, boy, joe, mob, henry, crime, jimmy, noodle, killed, steal, violent, kill, criminal, sick, revenge, prison, year, gun, war, 
+13 ###
+frank, white, kill, shoot, gun, sheriff, fire, deal, shotgun, shot, big, detective, bank, killed, black, arrive, harmonica, check, bullet, motel, 
+14 ###
+schultz, slave, king, war, hunter, free, battle, scar, emperor, fight, land, army, rhett, rescue, judah, captured, horse, ashley, desert, ride, 
+15 ###
+bill, kid, writer, star, joe, mansion, silent, party, lead, shoot, mind, sends, returning, career, evil, dangerous, complete, toward, wing, former, 
+16 ###
+corleone, elisabet, tramp, luke, japanese, bridge, river, prisoner, warden, hero, officer, nurse, hospital, baby, camp, wedding, form, commander, build, dy, 
+17 ###
+city, alfred, harvey, worker, samurai, village, bandit, fight, crane, cop, thief, weapon, henchman, killed, attack, informs, crime, chase, training, evil, 
+18 ###
+alien, parker, dragon, creature, ship, strange, ash, crew, dog, space, spider, marine, kill, planet, quickly, kane, signal, grab, team, attack, 
+19 ###
+lady, count, forest, barry, spirit, bride, japanese, god, sword, lord, baby, castle, kill, prince, marry, tree, middle, kiss, ground, taken, 
+0 ###
+frank, train, boy, land, carl, truck, sen, escape, kill, spirit, 
+1 ###
+luke, rebel, han, imperial, vader, vidal, star, leia, emperor, ship, 
+2 ###
+church, mildred, boy, fletcher, prison, gang, simba, patient, ace, hospital, 
+3 ###
+cobb, mile, taki, dog, terminator, memory, joy, mitsuha, team, jesper, 
+4 ###
+django, german, schultz, solomon, war, slave, candie, king, army, nazi, 
+5 ###
+bruce, bane, batman, gordon, selina, gotham, city, joker, dent, alfred, 
+6 ###
+paul, lady, fight, count, brendan, ashitaka, forest, joe, bride, japanese, 
+7 ###
+logan, soldier, general, war, borden, nemo, marine, miller, marlin, tank, 
+8 ###
+thanos, stone, neo, earth, parker, ship, alien, strange, morpheus, ring, 
+9 ###
+murder, letter, white, dude, killed, priest, crime, husband, gun, officer, 
+0 ###
+frank, train, boy, land, carl, truck, sen, escape, kill, spirit, 
+1 ###
+luke, rebel, han, imperial, vader, vidal, star, leia, emperor, ship, 
+2 ###
+church, mildred, boy, fletcher, prison, gang, simba, patient, ace, hospital, 
+3 ###
+cobb, mile, taki, dog, terminator, memory, joy, mitsuha, team, jesper, 
+4 ###
+django, german, schultz, solomon, war, slave, candie, king, army, nazi, 
+5 ###
+bruce, bane, batman, gordon, selina, gotham, city, joker, dent, alfred, 
+6 ###
+paul, lady, fight, count, brendan, ashitaka, forest, joe, bride, japanese, 
+7 ###
+logan, soldier, general, war, borden, nemo, marine, miller, marlin, tank, 
+8 ###
+thanos, stone, neo, earth, parker, ship, alien, strange, morpheus, ring, 
+9 ###
+murder, letter, white, dude, killed, priest, crime, husband, gun, officer, 
+0 ###
+frank, train, boy, land, carl, truck, sen, escape, kill, spirit, 
+1 ###
+luke, rebel, han, imperial, vader, vidal, star, leia, emperor, ship, 
+2 ###
+church, mildred, boy, fletcher, prison, gang, simba, patient, ace, hospital, 
+3 ###
+cobb, mile, taki, dog, terminator, memory, joy, mitsuha, team, jesper, 
+4 ###
+django, german, schultz, solomon, war, slave, candie, king, army, nazi, 
+5 ###
+bruce, bane, batman, gordon, selina, gotham, city, joker, dent, alfred, 
+6 ###
+paul, lady, fight, count, brendan, ashitaka, forest, joe, bride, japanese, 
+7 ###
+logan, soldier, general, war, borden, nemo, marine, miller, marlin, tank, 
+8 ###
+thanos, stone, neo, earth, parker, ship, alien, strange, morpheus, ring, 
+9 ###
+murder, letter, white, dude, killed, priest, crime, husband, gun, officer, 
+0 ###
+frank, train, boy, land, carl, truck, sen, escape, kill, spirit, 
+1 ###
+luke, rebel, han, imperial, vader, vidal, star, leia, emperor, ship, 
+2 ###
+church, mildred, boy, fletcher, prison, gang, simba, patient, ace, hospital, 
+3 ###
+cobb, mile, taki, dog, terminator, memory, joy, mitsuha, team, jesper, 
+4 ###
+django, german, schultz, solomon, war, slave, candie, king, army, nazi, 
+5 ###
+bruce, bane, batman, gordon, selina, gotham, city, joker, dent, alfred, 
+6 ###
+paul, lady, fight, count, brendan, ashitaka, forest, joe, bride, japanese, 
+7 ###
+logan, soldier, general, war, borden, nemo, marine, miller, marlin, tank, 
+8 ###
+thanos, stone, neo, earth, parker, ship, alien, strange, morpheus, ring, 
+9 ###
+murder, letter, white, dude, killed, priest, crime, husband, gun, officer, 
+0 ###
+truck, water, escape, land, quickly, reach, others, train, arrives, taken, taking, nothing, power, music, change, called, someone, step, light, nearby, road, made, close, across, follows, gone, bring, word, several, near, sits, city, tree, continue, figure, ride, chase, ever, jump, use, 
+1 ###
+luke, han, vader, rebel, imperial, leia, star, obi, princess, force, ship, empire, emperor, fighter, station, troop, planet, escape, dark, base, attack, wing, training, city, insists, board, captain, destroyed, commander, space, message, tie, pilot, light, mission, speed, fear, surface, huge, field, 
+2 ###
+fletcher, prison, red, guard, warden, daniel, nicky, mill, prisoner, hal, cell, thief, ever, music, church, several, sent, rock, hope, escaped, threatens, record, watching, rest, others, fellow, quickly, every, group, made, box, thus, first, among, unable, almost, tried, hero, escape, lead, 
+3 ###
+mile, doc, lorraine, friendly, future, power, parent, dance, union, barry, van, suit, truck, vehicle, band, lot, kiss, speed, tree, match, roll, earth, camera, strike, year, sound, fire, called, hanging, opening, toward, alien, save, sitting, kid, warns, light, roof, boy, key, 
+4 ###
+maximus, kurtz, mission, emperor, general, power, murdered, crowd, dying, boy, lead, join, guard, powerful, audience, might, empire, arrive, true, ever, series, former, special, train, short, collapse, sent, kill, killing, force, plot, revenge, follow, save, born, turned, murder, rise, learns, initially, 
+5 ###
+witch, neil, castle, monster, king, knight, sir, guard, rock, prince, shop, approach, party, answer, battle, sword, black, animal, heart, princess, scream, fire, french, giant, land, charge, search, attack, calling, power, foot, sound, appear, grenade, crowd, village, remaining, moving, using, wound, 
+6 ###
+spider, joe, band, mob, playing, fight, aunt, arrives, join, chase, bullet, attack, kill, invite, hero, suit, sneak, shoot, ability, harvey, climb, everyone, war, city, sending, gang, chair, leader, gas, lawyer, tried, blood, broken, marry, news, middle, power, answer, save, dressed, 
+7 ###
+marine, harvey, train, johnnie, union, general, officer, army, track, line, bridge, fire, knock, onto, thief, spy, soldier, prepares, board, remove, rifle, kiss, arrives, river, pass, news, big, south, land, remaining, supply, water, war, across, climb, training, broken, sleep, sword, shot, 
+8 ###
+dog, spirit, bird, japanese, river, fly, worker, master, bridge, form, hero, station, forced, creature, upon, train, air, using, release, ship, evil, among, dy, tunnel, giving, struggle, allowed, free, bomb, heart, city, surface, ground, basement, water, power, earth, send, manages, parker, 
+9 ###
+murder, detective, husband, interview, suspect, evidence, investigation, lead, crime, photo, station, party, letter, event, murdered, cop, killed, former, victim, released, mansion, learns, government, witness, lawyer, killer, court, officer, mention, owner, arrest, arrested, department, picture, investigate, used, happened, affair, hired, public, 
+10 ###
+paul, white, black, atticus, shot, kill, recognizes, happened, doctor, pain, went, fear, arrive, thought, jail, detail, discus, trial, thinking, arrives, chair, knife, first, confronts, report, invite, sheriff, audience, demand, done, paper, returning, touch, incident, wear, attacked, beaten, insists, glass, someone, 
+11 ###
+doc, plant, future, barry, juror, earth, lorraine, childhood, war, escape, isak, year, princess, husband, corleone, mansion, photo, called, joe, land, fire, taking, murder, lost, learns, using, water, wanting, boy, kane, friendly, private, power, married, parent, struggle, whose, accidentally, dangerous, travel, 
+12 ###
+gang, drug, jimmy, noodle, crime, steal, boy, violent, prison, year, criminal, killed, violence, taking, jail, girlfriend, arrested, killing, god, getting, worker, deal, shooting, leader, kill, condition, career, city, made, decide, result, thug, number, involved, rest, key, jewish, restaurant, grows, newspaper, 
+13 ###
+frank, kill, sheriff, shoot, trick, bank, deal, train, horse, king, check, buy, gun, owner, bullet, paper, rifle, fire, big, pistol, arrive, immediately, detective, crew, hunter, killed, track, escape, wanted, box, shot, shotgun, wait, flashback, several, cash, ride, wounded, exit, colonel, 
+14 ###
+schultz, stone, slave, ace, king, battle, free, power, army, kill, fight, destroy, travel, master, attack, rescue, force, white, strange, escape, judah, use, captured, join, protect, hunter, lord, mind, land, war, horse, killed, arrive, using, ride, remaining, capture, powerful, killing, eye, 
+15 ###
+village, samurai, mansion, bandit, attack, barry, joe, luke, star, kill, frank, battle, party, writer, shoot, han, judah, use, ship, learns, force, lead, giant, friendly, vader, although, deal, fire, killed, harmonica, station, situation, close, arrive, escape, team, informs, eye, line, insists, 
+16 ###
+baby, corleone, pregnant, rebel, wedding, kid, hospital, discovered, pass, learn, star, called, opening, marry, authority, event, hope, rescue, angel, immediately, abandoned, chase, truth, steal, pas, age, suicide, stolen, smile, arrives, tramp, doctor, japanese, discover, grows, thief, empire, initially, escape, boy, 
+17 ###
+gold, village, hat, ultimately, bandit, mountain, stolen, city, worker, search, samurai, indy, lost, killed, task, fight, thief, forced, training, trip, sell, shoot, every, attack, protect, boy, food, battle, finding, desert, kill, post, surprise, moment, group, realize, giant, weapon, alfred, use, 
+18 ###
+parker, dragon, isak, strange, unable, happy, revealed, every, although, professor, learn, control, request, suit, manage, wrong, explain, kill, fly, kiss, fight, entire, made, bring, contact, accept, ship, warning, mean, always, crash, attacked, board, upon, coming, station, unknown, cat, dangerous, realize, 
+19 ###
+lady, count, forest, bride, japanese, sword, marry, lord, bill, god, kill, ground, kiss, taken, wedding, tree, deadly, torture, letter, married, blood, beautiful, rush, castle, falling, ride, locked, true, claiming, bedroom, squad, die, taking, anger, grab, throw, dressed, prince, spirit, dy, 
+20 ###
+doc, city, scream, lorraine, worker, vehicle, lot, accidentally, power, across, actually, future, fake, rest, blue, light, realizing, follows, leg, arrest, killed, record, sleep, sits, samurai, called, getting, send, girlfriend, box, chase, beat, village, heart, someone, watching, bedroom, dinner, shoot, roger, 
+21 ###
+earth, ship, space, alien, planet, crew, creature, ash, computer, team, system, future, mission, signal, strange, plant, pilot, kill, us, helicopter, air, test, black, rescue, remains, quickly, surface, investigate, group, fire, station, power, remaining, survivor, weapon, line, hole, already, contact, reality, 
+22 ###
+narrator, sex, reporter, fish, sick, news, group, married, marriage, suicide, club, wedding, discus, report, support, personal, problem, law, document, ever, lot, newspaper, affair, bar, although, drug, public, ask, went, audience, clean, suggests, morning, angry, called, final, power, everything, asking, parent, 
+23 ###
+letter, tank, judge, victim, justice, boat, team, criminal, killer, bill, far, city, write, survivor, bell, year, church, cell, prince, every, trial, sends, court, sent, unable, taken, support, everyone, better, fish, waiting, made, prove, beginning, wonder, ask, post, opening, upon, getting, 
+24 ###
+marion, juror, rhett, motel, ashley, guilty, dress, witness, marry, taking, crane, store, married, running, change, wearing, completely, heard, several, lost, murder, bank, toward, cash, knife, bedroom, main, seen, self, jail, slip, answer, returning, god, boy, across, act, black, others, knight, 
+25 ###
+priest, samurai, village, bandit, kid, roger, cover, mention, sword, earlier, center, court, fight, plane, protect, attack, killing, battle, shot, kill, chief, giant, everything, press, use, different, killed, involved, everyone, running, policeman, horse, husband, asked, nothing, baby, caught, laugh, lost, came, 
+26 ###
+german, camp, escape, war, prisoner, officer, guard, win, train, playing, hide, horror, problem, big, foot, morning, corleone, ask, certain, captain, killed, protect, tunnel, although, shot, spot, horse, ever, jewish, force, follows, task, leader, taken, gun, team, station, board, true, marry, 
+27 ###
+park, city, alfred, prison, worker, tunnel, escape, bomb, prisoner, kanji, crane, board, chase, signal, using, officer, learns, knight, weapon, light, doctor, search, wealthy, jump, informs, save, manages, true, clean, rock, secret, gas, captured, plane, rich, us, safe, basement, group, act, 
+28 ###
+war, soldier, officer, army, american, captain, british, battle, enemy, general, attack, squad, french, command, sergeant, unit, military, killed, colonel, fire, shot, german, barnes, force, mission, bridge, kill, save, troop, several, wounded, lieutenant, bomb, mireau, commander, killing, shoot, line, group, crew, 
+29 ###
+boy, joy, parent, teacher, anger, happy, food, memory, train, always, war, struggle, unable, action, act, post, different, completely, older, situation, idea, childhood, forced, touch, loses, control, lost, desperate, shortly, former, brings, experience, far, important, angry, mind, supply, marry, moved, miss, 
+30 ###
+gun, shoot, fire, race, driver, team, cop, fight, grab, killed, shot, kid, pistol, demand, kill, blood, officer, throw, truck, henchman, thug, lot, use, force, bar, blow, arrive, drug, getting, guard, store, across, big, enters, killing, ground, admits, enter, several, leg, 
+31 ###
+scar, audience, elisabet, stage, theater, laugh, picture, mental, star, career, act, screen, talking, secret, famous, everyone, speaks, rise, silent, hospital, nurse, idea, image, boy, form, holding, begs, seen, appear, word, husband, self, camera, beautiful, accidentally, chase, letter, using, grows, doctor, 
+32 ###
+hitler, nazi, indy, rocket, henry, russian, general, german, army, jones, informs, message, soldier, city, escape, leader, remaining, party, group, jew, plane, trap, final, fight, jewish, arrives, major, operation, staff, dangerous, war, discovered, race, ship, radio, arrive, capture, american, fly, report, 
+33 ###
+memory, team, walter, mind, kill, idea, eye, reality, blood, pregnant, fear, gun, angel, task, wanted, parent, cry, reason, elevator, safe, pick, mission, secret, van, revenge, made, person, remaining, information, bridge, thought, blue, full, line, check, word, within, shoot, entire, die, 
+34 ###
+tramp, operation, wealthy, mansion, change, jail, shop, beautiful, corner, fight, buy, spy, party, upon, suicide, convinces, knock, tear, moment, newspaper, juror, city, spot, stage, rich, general, reach, invite, mill, war, land, cause, water, although, officer, effort, follow, murder, johnnie, drink, 
+35 ###
+mildred, patient, hospital, nurse, chief, mental, staff, kane, fire, flashback, dying, news, knew, sent, use, sneak, interview, lost, wanted, angry, everything, investigate, bill, loss, figure, newspaper, whole, dy, across, word, authority, sign, speak, came, girlfriend, got, personal, stone, drunk, hears, 
+36 ###
+south, parent, doctor, travel, boy, tour, black, brand, journey, couple, adventure, year, guest, food, big, speak, hunter, owner, else, sick, elderly, law, hot, silent, shocked, deep, husband, trip, eat, gave, promise, seen, longer, especially, gone, paper, played, discover, decision, hard, 
+37 ###
+fight, ring, training, win, fighter, round, middle, fighting, match, final, former, true, dog, enters, war, train, wish, battle, journey, path, deep, soldier, lead, loses, lost, writer, age, every, request, crowd, lose, food, support, apart, country, public, group, hope, upon, watching, 
+38 ###
+church, priest, barry, aunt, lawyer, jewish, law, document, jew, paper, god, court, born, boy, known, entire, public, suggests, mention, line, staff, caught, country, knew, year, covered, sent, given, war, trial, allowed, important, upon, promise, showing, travel, arrest, leader, done, mean, 
+39 ###
+harmonica, cabin, big, dance, shotgun, hall, card, foot, ship, wanted, strike, gun, roll, tramp, within, beautiful, gold, frank, train, rush, heart, black, dog, mountain, food, taking, character, table, getting, upon, officer, fight, rhett, loses, giant, ashley, draw, station, always, encounter, 
+0 ###
+truck, water, escape, land, quickly, reach, others, train, arrives, taken, taking, nothing, power, music, change, called, someone, step, light, nearby, road, made, close, across, follows, gone, bring, word, several, near, sits, city, tree, continue, figure, ride, chase, ever, jump, use, 
+1 ###
+luke, han, vader, rebel, imperial, leia, star, obi, princess, force, ship, empire, emperor, fighter, station, troop, planet, escape, dark, base, attack, wing, training, city, insists, board, captain, destroyed, commander, space, message, tie, pilot, light, mission, speed, fear, surface, huge, field, 
+2 ###
+fletcher, prison, red, guard, warden, daniel, nicky, mill, prisoner, hal, cell, thief, ever, music, church, several, sent, rock, hope, escaped, threatens, record, watching, rest, others, fellow, quickly, every, group, made, box, thus, first, among, unable, almost, tried, hero, escape, lead, 
+3 ###
+mile, doc, lorraine, friendly, future, power, parent, dance, union, barry, van, suit, truck, vehicle, band, lot, kiss, speed, tree, match, roll, earth, camera, strike, year, sound, fire, called, hanging, opening, toward, alien, save, sitting, kid, warns, light, roof, boy, key, 
+4 ###
+maximus, kurtz, mission, emperor, general, power, murdered, crowd, dying, boy, lead, join, guard, powerful, audience, might, empire, arrive, true, ever, series, former, special, train, short, collapse, sent, kill, killing, force, plot, revenge, follow, save, born, turned, murder, rise, learns, initially, 
+5 ###
+witch, neil, castle, monster, king, knight, sir, guard, rock, prince, shop, approach, party, answer, battle, sword, black, animal, heart, princess, scream, fire, french, giant, land, charge, search, attack, calling, power, foot, sound, appear, grenade, crowd, village, remaining, moving, using, wound, 
+6 ###
+spider, joe, band, mob, playing, fight, aunt, arrives, join, chase, bullet, attack, kill, invite, hero, suit, sneak, shoot, ability, harvey, climb, everyone, war, city, sending, gang, chair, leader, gas, lawyer, tried, blood, broken, marry, news, middle, power, answer, save, dressed, 
+7 ###
+marine, harvey, train, johnnie, union, general, officer, army, track, line, bridge, fire, knock, onto, thief, spy, soldier, prepares, board, remove, rifle, kiss, arrives, river, pass, news, big, south, land, remaining, supply, water, war, across, climb, training, broken, sleep, sword, shot, 
+8 ###
+dog, spirit, bird, japanese, river, fly, worker, master, bridge, form, hero, station, forced, creature, upon, train, air, using, release, ship, evil, among, dy, tunnel, giving, struggle, allowed, free, bomb, heart, city, surface, ground, basement, water, power, earth, send, manages, parker, 
+9 ###
+murder, detective, husband, interview, suspect, evidence, investigation, lead, crime, photo, station, party, letter, event, murdered, cop, killed, former, victim, released, mansion, learns, government, witness, lawyer, killer, court, officer, mention, owner, arrest, arrested, department, picture, investigate, used, happened, affair, hired, public, 
+10 ###
+paul, white, black, atticus, shot, kill, recognizes, happened, doctor, pain, went, fear, arrive, thought, jail, detail, discus, trial, thinking, arrives, chair, knife, first, confronts, report, invite, sheriff, audience, demand, done, paper, returning, touch, incident, wear, attacked, beaten, insists, glass, someone, 
+11 ###
+doc, plant, future, barry, juror, earth, lorraine, childhood, war, escape, isak, year, princess, husband, corleone, mansion, photo, called, joe, land, fire, taking, murder, lost, learns, using, water, wanting, boy, kane, friendly, private, power, married, parent, struggle, whose, accidentally, dangerous, travel, 
+12 ###
+gang, drug, jimmy, noodle, crime, steal, boy, violent, prison, year, criminal, killed, violence, taking, jail, girlfriend, arrested, killing, god, getting, worker, deal, shooting, leader, kill, condition, career, city, made, decide, result, thug, number, involved, rest, key, jewish, restaurant, grows, newspaper, 
+13 ###
+frank, kill, sheriff, shoot, trick, bank, deal, train, horse, king, check, buy, gun, owner, bullet, paper, rifle, fire, big, pistol, arrive, immediately, detective, crew, hunter, killed, track, escape, wanted, box, shot, shotgun, wait, flashback, several, cash, ride, wounded, exit, colonel, 
+14 ###
+schultz, stone, slave, ace, king, battle, free, power, army, kill, fight, destroy, travel, master, attack, rescue, force, white, strange, escape, judah, use, captured, join, protect, hunter, lord, mind, land, war, horse, killed, arrive, using, ride, remaining, capture, powerful, killing, eye, 
+15 ###
+village, samurai, mansion, bandit, attack, barry, joe, luke, star, kill, frank, battle, party, writer, shoot, han, judah, use, ship, learns, force, lead, giant, friendly, vader, although, deal, fire, killed, harmonica, station, situation, close, arrive, escape, team, informs, eye, line, insists, 
+16 ###
+baby, corleone, pregnant, rebel, wedding, kid, hospital, discovered, pass, learn, star, called, opening, marry, authority, event, hope, rescue, angel, immediately, abandoned, chase, truth, steal, pas, age, suicide, stolen, smile, arrives, tramp, doctor, japanese, discover, grows, thief, empire, initially, escape, boy, 
+17 ###
+gold, village, hat, ultimately, bandit, mountain, stolen, city, worker, search, samurai, indy, lost, killed, task, fight, thief, forced, training, trip, sell, shoot, every, attack, protect, boy, food, battle, finding, desert, kill, post, surprise, moment, group, realize, giant, weapon, alfred, use, 
+18 ###
+parker, dragon, isak, strange, unable, happy, revealed, every, although, professor, learn, control, request, suit, manage, wrong, explain, kill, fly, kiss, fight, entire, made, bring, contact, accept, ship, warning, mean, always, crash, attacked, board, upon, coming, station, unknown, cat, dangerous, realize, 
+19 ###
+lady, count, forest, bride, japanese, sword, marry, lord, bill, god, kill, ground, kiss, taken, wedding, tree, deadly, torture, letter, married, blood, beautiful, rush, castle, falling, ride, locked, true, claiming, bedroom, squad, die, taking, anger, grab, throw, dressed, prince, spirit, dy, 
+20 ###
+doc, city, scream, lorraine, worker, vehicle, lot, accidentally, power, across, actually, future, fake, rest, blue, light, realizing, follows, leg, arrest, killed, record, sleep, sits, samurai, called, getting, send, girlfriend, box, chase, beat, village, heart, someone, watching, bedroom, dinner, shoot, roger, 
+21 ###
+earth, ship, space, alien, planet, crew, creature, ash, computer, team, system, future, mission, signal, strange, plant, pilot, kill, us, helicopter, air, test, black, rescue, remains, quickly, surface, investigate, group, fire, station, power, remaining, survivor, weapon, line, hole, already, contact, reality, 
+22 ###
+narrator, sex, reporter, fish, sick, news, group, married, marriage, suicide, club, wedding, discus, report, support, personal, problem, law, document, ever, lot, newspaper, affair, bar, although, drug, public, ask, went, audience, clean, suggests, morning, angry, called, final, power, everything, asking, parent, 
+23 ###
+letter, tank, judge, victim, justice, boat, team, criminal, killer, bill, far, city, write, survivor, bell, year, church, cell, prince, every, trial, sends, court, sent, unable, taken, support, everyone, better, fish, waiting, made, prove, beginning, wonder, ask, post, opening, upon, getting, 
+24 ###
+marion, juror, rhett, motel, ashley, guilty, dress, witness, marry, taking, crane, store, married, running, change, wearing, completely, heard, several, lost, murder, bank, toward, cash, knife, bedroom, main, seen, self, jail, slip, answer, returning, god, boy, across, act, black, others, knight, 
+25 ###
+priest, samurai, village, bandit, kid, roger, cover, mention, sword, earlier, center, court, fight, plane, protect, attack, killing, battle, shot, kill, chief, giant, everything, press, use, different, killed, involved, everyone, running, policeman, horse, husband, asked, nothing, baby, caught, laugh, lost, came, 
+26 ###
+german, camp, escape, war, prisoner, officer, guard, win, train, playing, hide, horror, problem, big, foot, morning, corleone, ask, certain, captain, killed, protect, tunnel, although, shot, spot, horse, ever, jewish, force, follows, task, leader, taken, gun, team, station, board, true, marry, 
+27 ###
+park, city, alfred, prison, worker, tunnel, escape, bomb, prisoner, kanji, crane, board, chase, signal, using, officer, learns, knight, weapon, light, doctor, search, wealthy, jump, informs, save, manages, true, clean, rock, secret, gas, captured, plane, rich, us, safe, basement, group, act, 
+28 ###
+war, soldier, officer, army, american, captain, british, battle, enemy, general, attack, squad, french, command, sergeant, unit, military, killed, colonel, fire, shot, german, barnes, force, mission, bridge, kill, save, troop, several, wounded, lieutenant, bomb, mireau, commander, killing, shoot, line, group, crew, 
+29 ###
+boy, joy, parent, teacher, anger, happy, food, memory, train, always, war, struggle, unable, action, act, post, different, completely, older, situation, idea, childhood, forced, touch, loses, control, lost, desperate, shortly, former, brings, experience, far, important, angry, mind, supply, marry, moved, miss, 
+30 ###
+gun, shoot, fire, race, driver, team, cop, fight, grab, killed, shot, kid, pistol, demand, kill, blood, officer, throw, truck, henchman, thug, lot, use, force, bar, blow, arrive, drug, getting, guard, store, across, big, enters, killing, ground, admits, enter, several, leg, 
+31 ###
+scar, audience, elisabet, stage, theater, laugh, picture, mental, star, career, act, screen, talking, secret, famous, everyone, speaks, rise, silent, hospital, nurse, idea, image, boy, form, holding, begs, seen, appear, word, husband, self, camera, beautiful, accidentally, chase, letter, using, grows, doctor, 
+32 ###
+hitler, nazi, indy, rocket, henry, russian, general, german, army, jones, informs, message, soldier, city, escape, leader, remaining, party, group, jew, plane, trap, final, fight, jewish, arrives, major, operation, staff, dangerous, war, discovered, race, ship, radio, arrive, capture, american, fly, report, 
+33 ###
+memory, team, walter, mind, kill, idea, eye, reality, blood, pregnant, fear, gun, angel, task, wanted, parent, cry, reason, elevator, safe, pick, mission, secret, van, revenge, made, person, remaining, information, bridge, thought, blue, full, line, check, word, within, shoot, entire, die, 
+34 ###
+tramp, operation, wealthy, mansion, change, jail, shop, beautiful, corner, fight, buy, spy, party, upon, suicide, convinces, knock, tear, moment, newspaper, juror, city, spot, stage, rich, general, reach, invite, mill, war, land, cause, water, although, officer, effort, follow, murder, johnnie, drink, 
+35 ###
+mildred, patient, hospital, nurse, chief, mental, staff, kane, fire, flashback, dying, news, knew, sent, use, sneak, interview, lost, wanted, angry, everything, investigate, bill, loss, figure, newspaper, whole, dy, across, word, authority, sign, speak, came, girlfriend, got, personal, stone, drunk, hears, 
+36 ###
+south, parent, doctor, travel, boy, tour, black, brand, journey, couple, adventure, year, guest, food, big, speak, hunter, owner, else, sick, elderly, law, hot, silent, shocked, deep, husband, trip, eat, gave, promise, seen, longer, especially, gone, paper, played, discover, decision, hard, 
+37 ###
+fight, ring, training, win, fighter, round, middle, fighting, match, final, former, true, dog, enters, war, train, wish, battle, journey, path, deep, soldier, lead, loses, lost, writer, age, every, request, crowd, lose, food, support, apart, country, public, group, hope, upon, watching, 
+38 ###
+church, priest, barry, aunt, lawyer, jewish, law, document, jew, paper, god, court, born, boy, known, entire, public, suggests, mention, line, staff, caught, country, knew, year, covered, sent, given, war, trial, allowed, important, upon, promise, showing, travel, arrest, leader, done, mean, 
+39 ###
+harmonica, cabin, big, dance, shotgun, hall, card, foot, ship, wanted, strike, gun, roll, tramp, within, beautiful, gold, frank, train, rush, heart, black, dog, mountain, food, taking, character, table, getting, upon, officer, fight, rhett, loses, giant, ashley, draw, station, always, encounter, 
