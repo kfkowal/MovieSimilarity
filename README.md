@@ -31,4 +31,9 @@
 ### then run backend by typing:
 ### > python run_backend.py
 
+### To run frontend enter ***./src/frontend/scatter***
+### and run:
+### > npm install
+### and then run
+###> npm start
 
