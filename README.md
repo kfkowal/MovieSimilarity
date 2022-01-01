@@ -35,5 +35,7 @@
 ### and run:
 ### > npm install
 ### and then run
-###> npm start
+### > npm start
+
+### Now go to ***localhost:3000/*** to test the project
 
