@@ -2,7 +2,7 @@
 
 ## the aim of this project is to create a map of points (points are representing movies (250 movies from top IMDB movie list are used)) where the closeness of points represents similarity between movies.
 
-## You can this map to find the next movie to watch. For example lets say I've watched movie "Das Bot" recently and I really liked it, I can find where that movie is located on the map and then search for some other movies which are close to this one. Chances are that if I liked the first movie I will also like the movies that are simmilar to it.
+## You can this map to find the next movie to watch. For example lets say I've watched movie "Das Boot" recently and I really liked it, I can find where that movie is located on the map and then search for some other movies which are close to this one. Chances are that if I liked the first movie I will also like the movies that are simmilar to it.
 
 # How simmilarity between movies is calculated:
 
